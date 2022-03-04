@@ -1,10 +1,10 @@
 Fase 1 - Setup Inicial:
-    ☐ Faça um fork desse repositório para a sua conta github
-    ☐ Clone o seu repositório para a sua máquina local
-    ☐ Inicie um projeto node na pasta deste projeto
+    ✔ Faça um fork desse repositório para a sua conta github @done(22-03-04 16:24)
+    ✔ Clone o seu repositório para a sua máquina local @done(22-03-04 16:24)
+    ✔ Inicie um projeto node na pasta deste projeto @done(22-03-04 16:24)
     
     Verificações: 
-        ☐ Se o comando npm init criou um arquivo package.json na raíz do seu projeto
+        ✔ Se o comando npm init criou um arquivo package.json na raíz do seu projeto @done(22-03-04 16:27)
 
 
 
