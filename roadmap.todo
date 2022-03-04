@@ -10,20 +10,20 @@ Fase 1 - Setup Inicial:
 
 Fase 2 - Criação da aplicação (Criado o sevidor web no app.js):
     ✔ Instale a biblioteca express no projeto @done(22-03-04 16:31)
-    ☐ Faça com que o git ignore a pasta node_modules
-    ☐ Crie um arquivo chamado app.js na raíz do seu projeto
+    ✔ Faça com que o git ignore a pasta node_modules @done(22-03-04 16:33)
+    ✔ Crie um arquivo chamado app.js na raíz do seu projeto @done(22-03-04 16:34)
     ☐ No app.js:
-        ☐ Importe o express
-        ☐ Crie um aplicação web com o express e guarde-a numa constante app.
-        ☐ Crie uma rota get para o endereço '/'.
-            Quando acessada, essa rota deve responder um 'Olá, visitante!' para o cliente
-        ☐ Escreva uma linha que iniciará o servidor na porta 3000 (app.listen)
-            Quando o servidor iniciar, ele deve escrever no console: "Servidor rodando na porta 3000"
+        ✔ Importe o express @done(22-03-04 16:36)
+        ✔ Crie um aplicação web com o express e guarde-a numa constante app. @done(22-03-04 16:37)
+        ✔ Crie uma rota get para o endereço '/'. @done(22-03-04 16:47)
+            ✔ Quando acessada, essa rota deve responder um 'Olá, visitante!' para o cliente @done(22-03-04 16:47)
+        ✔ Escreva uma linha que iniciará o servidor na porta 3000 (app.listen) @done(22-03-04 16:53)
+            ✔ Quando o servidor iniciar, ele deve escrever no console: "Servidor rodando na porta 3000" @done(22-03-04 16:53)
 
     Verificações:
-        ☐ Execute o comando node app.js para iniciar o servidor. Você deve ver a mensagem "Servidor rodando na porta 3000" no console
-        ☐ Abra o navegador e visite o endereço http://localhost:3000. Deve aparecer no navegador a frase "Olá, visitante!"
-        ☐ Verifique se a pasta node_modules aparece listada no comando git status
+        ✔ Execute o comando node app.js para iniciar o servidor. Você deve ver a mensagem "Servidor rodando na porta 3000" no console @done(22-03-04 17:01)
+        ✔ Abra o navegador e visite o endereço http://localhost:3000. Deve aparecer no navegador a frase "Olá, visitante!" @done(22-03-04 17:01)
+        ✔ Verifique se a pasta node_modules aparece listada no comando git status @done(22-03-04 17:01)
 
 
 
