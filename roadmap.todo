@@ -9,7 +9,7 @@ Fase 1 - Setup Inicial:
 
 
 Fase 2 - Criação da aplicação (Criado o sevidor web no app.js):
-    ☐ Instale a biblioteca express no projeto
+    ✔ Instale a biblioteca express no projeto @done(22-03-04 16:31)
     ☐ Faça com que o git ignore a pasta node_modules
     ☐ Crie um arquivo chamado app.js na raíz do seu projeto
     ☐ No app.js:
